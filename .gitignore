@@ -1,0 +1,11 @@
+# Git 忽略清單
+# 設定檔和機密資訊
+config/config.json
+__pycache__/
+*.pyc
+.env
+
+# FFmpeg 執行檔
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
